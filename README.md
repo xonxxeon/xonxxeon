@@ -11,6 +11,7 @@
 ### 👀 NewPrjOtt
 ##### OTT 정보 제공 서비스 (프로젝트 진행중)
 
+- Node, Node-express, socket.io, jsonwebtoken, vue.js, AWS(EC-2)
 - OTT 정보 제공
 - socket.io를 이용한 테마별 실시간 채팅 서비스
 - 평점 리뷰 작성
