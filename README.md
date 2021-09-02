@@ -9,7 +9,7 @@
 - 코멘트 작성 기능
 
 ### 👀 NewPrjOtt
-##### OTT 정보 제공 서비스 (프로젝트 진행중)
+##### OTT 정보 제공 서비스
 
 - Node, Node-express, socket.io, jsonwebtoken, vue.js, AWS(EC-2)
 - OTT 정보 제공
