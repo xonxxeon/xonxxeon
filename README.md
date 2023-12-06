@@ -17,8 +17,8 @@
 - 평점 리뷰 작성
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dy-kim92&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dy-kim92&layout=compact&theme=gotham)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xonxxeon&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xonxxeon&layout=compact&theme=gotham)
 <!---
 dy-kim92/dy-kim92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
